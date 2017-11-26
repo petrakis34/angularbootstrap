@@ -9,4 +9,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
  	data = 'Column ';
  	data2 = 'Column Adjustable to Mobile ';
+ 	data3 = 'Column Adjustable to Mobile with offset ';
 }
